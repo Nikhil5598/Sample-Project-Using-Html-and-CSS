@@ -1,1 +1,1 @@
-It is a Sample Project Build during my 2 year of Bachelors Degree. using Html and CSS Online Library Book Store
+It is a Sample Project built during the 2nd year of Bachelors Degree. using HTML and CSS Online Library Book Store
